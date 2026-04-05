@@ -85,3 +85,11 @@ Accuracy and loss plots help evaluate model learning behavior.
 This project demonstrates a complete deep learning-based image classification system using the Fashion MNIST dataset. It integrates data preprocessing, CNN model building, training, evaluation, and prediction into a single workflow. The pipeline provides a strong foundation for understanding image classification using convolutional neural networks.
 
 ## Results
+
+<img width="1121" height="449" alt="Image" src="https://github.com/user-attachments/assets/9468b7ce-749d-450e-a15f-74b393258981" />
+
+<img width="1281" height="737" alt="Image" src="https://github.com/user-attachments/assets/955ce459-10bf-4f76-9365-abba63272166" />
+
+<img width="963" height="532" alt="Image" src="https://github.com/user-attachments/assets/009f2f39-3299-4ab8-a5fc-1549b98595d8" />
+
+<img width="1005" height="549" alt="Image" src="https://github.com/user-attachments/assets/7c37f1a8-ab3f-440c-a038-c14e7a86571a" />
